@@ -66,7 +66,7 @@ const AboutSection: React.FC = () => {
             Full Stack Web Developer, Editor
           </p>
           <p className="text-gray-300 mb-4 text-sm leading-relaxed">
-            I&apos;m an Informatics Student majoring at Universitas Atma Jaya Yogyakarta who is dynamic, self-motivated, and strongly interested in <span className="text-purple-400 font-medium">Full Stack Development</span> and <span className="text-purple-400 font-medium">Content Creation</span>. I am dedicated to delivering positive contributions to every project and my primary focus is on web development.
+            I&apos;m an Informatics Student majoring at Universitas Atma Jaya Yogyakarta who is dynamic, self-motivated, and strongly interested in <span className="text-purple-400 font-medium">Full Stack Development</span> and <span className="text-purple-400 font-medium">Graphic Designer</span>. I am dedicated to delivering positive contributions to every project and my primary focus is on web development.
           </p>
 
           {/* Icon Sosial */}
