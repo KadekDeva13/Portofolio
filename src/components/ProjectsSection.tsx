@@ -55,7 +55,7 @@ const ProjectsSection: React.FC = () => {
         viewport={{ once: true }}
         className="text-center text-gray-400 mb-10"
       >
-        Here are some of the impactful projects I've successfully completed!
+        Here are some of the impactful projects I&apos;ve successfully completed!
       </motion.p>
 
       <motion.div

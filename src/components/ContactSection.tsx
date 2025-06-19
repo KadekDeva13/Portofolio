@@ -21,7 +21,7 @@ const ContactSection = () => {
             Feel free to reach out for <span className="text-purple-500">collabs</span>
           </h2>
           <p className="text-gray-300 text-sm mb-6 leading-relaxed">
-            "Let's collaborate on an exciting project! Whether you have a creative idea or a challenging task, I'm here to help. Feel free to reach out and let's make something amazing together."
+            &quot;Let&apos;s collaborate on an exciting project! Whether you have a creative idea or a challenging task, I&apos;m here to help. Feel free to reach out and let&apos;s make something amazing together.&quot;
           </p>
 
           <div className="flex gap-4 mt-4 text-white text-3xl">
