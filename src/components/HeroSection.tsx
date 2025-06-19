@@ -55,7 +55,7 @@ const HeroSection: React.FC = () => {
         viewport={{ once: true }}
         className="text-gray-300 text-lg mb-6"
       >
-        &quot;Welcome to my portfolio website. Let&apos;s collaborate on a project together!&quot;
+        &quot;Welcome to my Portfolio website. Let&apos;s collaborate on a project together!&quot;
       </motion.p>
 
       <motion.div
