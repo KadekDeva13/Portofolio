@@ -64,7 +64,7 @@ const HeroSection: React.FC = () => {
         transition={{ duration: 0.6 }}
         viewport={{ once: true }}
       >
-        <Link href="/about">
+        <Link href="/About">
           <button className="bg-purple-600 hover:bg-purple-700 text-white px-6 py-3 rounded-full font-semibold transition">
             Get in touch 👋
           </button>
