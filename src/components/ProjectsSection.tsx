@@ -13,8 +13,8 @@ const projects = [
     link: 'https://github.com/KadekDeva13/Atma-School.git',
   },
   {
-    name: 'Univit Mobile App',
-    image: '/images/project-trianews.png',
+    name: 'Unifit Mobile App',
+    image: '/images/unifit.png',
     description:
       'A sleek and easy-to-use mobile app designed to simplify the Gym Class booking experience.',
     link: 'https://github.com/KevinArdiprana46/6_B_Gym.git',
