@@ -17,7 +17,7 @@ const programmingSkills = [
   { name: 'Flutter', icon: '/images/Flutter-Cp7V-osx.png' },
   { name: 'Tailwind', icon: '/images/Tailwind-DfCl9cvf.png' },
   { name: 'Laravel', icon: '/images/laravel.png' },
-  { name: 'MySQL', icon: '/images/mysql.png' },
+  { name: 'MySQL', icon: '/images/MySQL-BrrUAHM9.png' },
   { name: 'GitHub', icon: '/images/Github-BvjW7zmf.png' },
 ]
 
