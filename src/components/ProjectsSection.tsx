@@ -33,6 +33,13 @@ const projects = [
       'My own portfolio website, showcasing projects, skills, and designs as a frontend developer.',
     link: 'https://github.com/KadekDeva13/Portofolio.git',
   },
+  {
+    name: 'Game Whack A Mole',
+    image: '/images/Whack-A-Mole.png',
+    description:
+      'A fun game where you have to click on the moles as fast as you can to score points.',
+    link: 'https://github.com/KadekDeva13/Whack-A-Mole.git',
+  }
 ]
 
 const ProjectsSection: React.FC = () => {
