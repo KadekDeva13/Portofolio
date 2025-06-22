@@ -39,6 +39,13 @@ const projects = [
     description:
       'A fun game where you have to click on the moles as fast as you can to score points.',
     link: 'https://github.com/KadekDeva13/Whack-A-Mole.git',
+  },
+  {
+    name: 'Game Tic Tac Toe',
+    image: '/images/TicTacToe.png',
+    description:
+      'A classic game of Tic Tac Toe, where two players take turns marking Xs and Os on a 3x3 grid.',
+    link: 'https://github.com/KadekDeva13/Tic-Tac-Toe.git',
   }
 ]
 
