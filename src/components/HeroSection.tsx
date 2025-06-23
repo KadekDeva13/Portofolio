@@ -1,4 +1,3 @@
-// HeroSection.tsx with animation
 'use client'
 
 import Image from 'next/image'

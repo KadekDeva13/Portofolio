@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 import React, { useState } from 'react'
-import { Menu, X } from 'lucide-react' // atau ganti dengan emoji jika tanpa icon lib
+import { Menu, X } from 'lucide-react'
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false)
