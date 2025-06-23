@@ -34,6 +34,13 @@ const projects = [
     link: 'https://github.com/KadekDeva13/Portofolio.git',
   },
   {
+    name: 'Hotel Booking Management System',
+    image: '/images/hotel.png',
+    description:
+      'A hotel booking management system that provides a user-friendly interface for booking rooms. ',
+    link: 'https://github.com/KadekDeva13/frontend_hotel.git',
+  },
+  {
     name: 'Game Whack-A-Mole',
     image: '/images/Whack-A-Mole.png',
     description:
