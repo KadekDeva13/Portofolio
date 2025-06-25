@@ -53,6 +53,13 @@ const projects = [
     description:
       'A classic game of Tic Tac Toe, where two players take turns marking Xs and Os on a 3x3 grid.',
     link: 'https://github.com/KadekDeva13/Tic-Tac-Toe.git',
+  },
+  {
+    name: 'Guessing Picture Game',
+    image: '/images/guessing-picture.png',
+    description:
+      'A game where you have to guess a picture based on its description.',
+      link: 'https://github.com/KadekDeva13/guessing-picture.git',
   }
 ]
 
