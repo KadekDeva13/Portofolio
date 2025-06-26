@@ -60,6 +60,13 @@ const projects = [
     description:
       'A game where you have to guess a picture based on its description.',
       link: 'https://github.com/KadekDeva13/guessing-picture.git',
+  },
+  {
+    name: 'Simple Schedule Laundry',
+    image: '/images/laundry.png',
+    description:
+      'A simple schedule laundry application that allows users to book laundry services.',
+      link: 'https://github.com/KadekDeva13/Laudry_schedule.git',
   }
 ]
 
