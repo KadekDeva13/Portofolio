@@ -55,7 +55,7 @@ const ContactSection = () => {
             &quot;Let&apos;s collaborate on an exciting project! Feel free to reach out and let&apos;s make something amazing together.&quot;
           </p>
           <div className="flex gap-4 mt-4 text-white text-3xl">
-            <a href="https://wa.me/6282147073742" target="_blank" rel="noreferrer">
+            <a href="https://wa.me/6282342241631" target="_blank" rel="noreferrer">
               <FaWhatsapp />
             </a>
             <a href="mailto:kidzxgh44@gmail.com">
